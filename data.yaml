@@ -1,0 +1,67 @@
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 60
+
+names:
+  - CAUTIONARY_WARNING_SIGNS
+  - CHEVRON
+  - CompulsoryBusStopSign
+  - Compulsory_Turn_Left
+  - CrashBarrier
+  - Culvert
+  - DamagedBoundaryStone
+  - DamagedConcreteBarrier
+  - DamagedCrashBarrier
+  - DamagedKerb
+  - DamagedLane
+  - DamagedOpenPuccaDrain
+  - DamagedPuccaDrain
+  - DamagedSpeedBreaker
+  - EXIT_SIGNS
+  - FACILITY_INFORMATION_SIGNS
+  - FadedBoundaryStone
+  - FadedConcreteBarrier
+  - FadedKerb
+  - FadedLane
+  - FadedSpeedBreaker
+  - FadedSpeedbreaker
+  - FadedZebraCrossing
+  - GIVE_WAY
+  - GIVE_WAY_SIGNS
+  - GapInMedianSign
+  - HAZARD
+  - HazardMarkerSign
+  - HazardMarkerSigns
+  - INFORMATORYSIGNS
+  - INFORMATORY_SIGNS
+  - Informatory_Signs
+  - KmStone
+  - LeftTurnSign
+  - MissingStuds
+  - MudDrainage
+  - OpenPuccaDrain
+  - PROHIBITORY_MANDATORY_SIGNS
+  - PROHIBITORY_SIGNS
+  - ProhibatoryCircular
+  - ProhibatorySign
+  - ROUTE_MARKER_SIGNS
+  - RightTurnSign
+  - Right_Reverse_Bend
+  - RoadMergeSign
+  - RoadSign
+  - SPEED_LIMIT
+  - SPEED_LIMIT_60
+  - STOP_SIGNS
+  - SolarBlinker
+  - SpeedLimitSign
+  - Speed_Limit
+  - TurnSign
+  - VegetationCrashBarrier
+  - VegetationDrainage
+  - VegetationKerb
+  - VegetationOverheadGantry
+  - VegetationRoadFencing
+  - VegetationRoadSign
+  - WarningSign
+
